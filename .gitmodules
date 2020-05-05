@@ -1,0 +1,9 @@
+[submodule "st"]
+	path = st
+	url = https://github.com/dedsecer/st
+[submodule "dwm"]
+	path = dwm
+	url = https://github.com/dedsecer/dwm
+[submodule "dmenu"]
+	path = dmenu
+	url = https://github.com/dedsecer/dmenu
